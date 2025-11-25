@@ -35,6 +35,7 @@ Look for:
 - `invalid user`
 
 Example patterns:
+Failed password for invalid user root from 192.168.1.50 port 52214
 
 
 ---
