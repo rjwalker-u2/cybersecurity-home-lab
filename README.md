@@ -1,3 +1,17 @@
+# 🔐 Cybersecurity Portfolio – Ronald Walker
+
+Welcome to my cybersecurity home lab and blue-team portfolio.  
+I am a **CompTIA Security+ certified** cybersecurity professional focused on SOC operations, defensive security, and hands-on technical skills.
+
+This repository showcases:
+- 🧪 **Hands-on labs** (network scanning, log analysis, incident response)
+- 🧰 **Python security tools** (log parser, port scanner, integrity checker)
+- 🛡️ **Blue team playbooks** (brute force attack, SSH hardening)
+- 🐳 **Docker & home lab architecture** (multi-container security toolkit)
+- 📘 **Security+ notes** that demonstrate my understanding of all core domains
+- 📄 **Skills overview** for recruiters and hiring managers
+
+This portfolio is continuously updated as I grow in defensive security, automation, and threat detection.
 # cybersecurity-home-lab
 Documenting my journey into cybersecurity: labs, notes, blue team projects
 # Cybersecurity Home Lab & Notes
